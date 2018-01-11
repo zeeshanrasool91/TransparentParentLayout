@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TransparentParentLayout</string>
+    <string name="without_xml_layout">Without Xml Layout</string>
+    <string name="with_xml_layout">With Xml Layout</string>
+    <string name="reset">Reset</string>
+    <string name="transparent_parent_layout">Transparent Parent Layout!</string>
+    <string name="transparent_parent_layout_n_select_layout_from_options_menu">Transparent Parent Layout! \n Select Layout from Options Menu</string>
+    <string name="transparent_parent_layout_with_xml_layout">Transparent Parent Layout With XML Layout</string>
+</resources>

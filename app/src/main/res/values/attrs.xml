@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TransparentParentLayout">
+        <attr name="tpl_opacity" format="float" />
+        <attr name="tpl_imgsrc" format="reference" />
+        <attr name="tpl_scaletype" format="enum">
+            <enum name="MATRIX" value="0" />
+            <enum name="FIT_XY" value="1" />
+            <enum name="FIT_START" value="2" />
+            <enum name="FIT_CENTER" value="3" />
+            <enum name="FIT_END" value="4" />
+            <enum name="CENTER" value="5" />
+            <enum name="CENTER_CROP" value="6" />
+            <enum name="CENTER_INSIDE" value="7" />
+
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="TransparentParentLayoutWithXMLLayout">
+        <attr name="tplwxl_opacity" format="float" />
+        <attr name="tplwxl_scaletype" format="enum">
+            <enum name="MATRIX" value="0" />
+            <enum name="FIT_XY" value="1" />
+            <enum name="FIT_START" value="2" />
+            <enum name="FIT_CENTER" value="3" />
+            <enum name="FIT_END" value="4" />
+            <enum name="CENTER" value="5" />
+            <enum name="CENTER_CROP" value="6" />
+            <enum name="CENTER_INSIDE" value="7" />
+
+        </attr>
+    </declare-styleable>
+</resources>
